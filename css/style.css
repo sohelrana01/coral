@@ -68,8 +68,8 @@ img {
 	z-index: 999;
 	position: absolute;
 	color: #fff;
-	padding: 294px 0px 0px 75px;
-	max-width: 665px;
+	padding: 295px 0px 0px 48px;
+	max-width: 700px;
 }
 .author {
 	text-transform: uppercase;
@@ -373,16 +373,19 @@ img {
 	margin-bottom: 35px;
 }
 .contact-btn p {
-	margin-top: 20px;
+	margin-top: 16px;
 }
 .contact {
-	padding: 100px 0;
+	padding: 100px 0 125px;
 }
 /********* footer css *********/
 .footer-area {
 	background: #343a40;
 	color: #fff;
 	padding-top: 70px;
+}
+.footer-widget {
+	padding-left: 15px;
 }
 .footer-widget a {
 	font-size: 30px;
@@ -414,7 +417,7 @@ img {
 .footer-bottom p {
 	color: rgba(255,255,255,.5);
 	font-size: 1.0625rem;
-	padding: 40px 0;
+	padding: 39px 0 45px;
 	font-weight: 300;
 }
 .footer-bottom {
